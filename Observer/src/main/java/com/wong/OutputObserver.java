@@ -1,4 +1,4 @@
-package org.example;
+package com.wong;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

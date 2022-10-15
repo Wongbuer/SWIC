@@ -1,4 +1,4 @@
-package org.example;
+package com.wong;
 
 import java.util.LinkedList;
 import java.util.List;

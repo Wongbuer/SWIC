@@ -1,4 +1,4 @@
-package org.example;
+package com.wong;
 
 public class KWICSubject extends Subject {
     public void startProgram() {

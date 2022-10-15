@@ -1,4 +1,4 @@
-package org.example;
+package com.wong;
 
 public interface Observer {
     void process();
